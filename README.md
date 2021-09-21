@@ -45,6 +45,12 @@ private fun updateNestedMotionLayout(motionLayout: MotionLayout?) = motionLayout
 And that's all!
 
 
+## Stackoverflow questions
+If this help you in any way, please vote up some stackoverflow's answers related to this:<br>
+[Answer one](https://stackoverflow.com/a/69272874/1332549)<br>
+[Answer two](https://stackoverflow.com/a/69272972/1332549)
+
+
 ## About me
 
 ### Stackoverflow Developer Story
