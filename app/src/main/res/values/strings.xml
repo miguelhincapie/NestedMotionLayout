@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NestedMotionLayout</string>
+    <string name="header_background">header background</string>
+    <string name="logo">logo</string>
+    <string name="my_title">My next trips</string>
+    <string name="subtitle_value">Subtitle value 1234</string>
+    <string name="my_subtitle">My subtitle</string>
+    <string name="header_value">Header value 1234</string>
+    <string name="my_header">My header title</string>
+</resources>
