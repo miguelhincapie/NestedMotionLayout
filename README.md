@@ -12,7 +12,7 @@ Welp, a beautiful app usually has complex XML hierarchies, so keeping all the UI
 <img width="500" height="500" src="https://github.com/miguelhincapie/NestedMotionLayout/blob/master/docs/images/NestedMotionLayout.gif">
 <br><br>
 
-## This is how Activity XML tree looks like
+## This is how Activity XML hierarchy looks like
 
 <br>
 <img width="644" height="849" src="https://github.com/miguelhincapie/NestedMotionLayout/blob/master/docs/images/XML%20tree.png">
